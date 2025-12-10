@@ -1,1 +1,1 @@
-my study of making a parser / calculator
+My study of making a parser / calculator
