@@ -8,7 +8,6 @@
 #include <string>
 using namespace std;
 
-// トークン種別を定義する列挙型（enum class）
 enum class TokenType {
     PLUS,       // +
     MINUS,      // -
